@@ -1,0 +1,15 @@
+insert 45
+insert 12
+insert 7
+insert 9
+insert 4
+insert 5
+insert -39
+insert -53
+insert -79
+print_tree
+inorder_list
+remove 45
+print_tree
+inorder_list
+
